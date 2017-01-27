@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Menus</string>
+    <string name="menu_about">Acerca de</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="menu_edit">Editar</string>
+    <string name="menu_edit_toast">Editando</string>
+    <string name="menu_delete">Borrar</string>
+    <string name="menu_delete_toast">Borrando</string>
+    <string name="about_text">Acerca de aplicación</string>
+    <string name="settings_text">Configuración de aplicacion</string>
+    <string name="nombre_persona">Pancho Villa</string>
+    <string name="menu_facebook">Facebook</string>
+    <string name="menu_facebook_toast">Compartiendo en Facebook</string>
+    <string name="menu_wathsapp">Wathsapp</string>
+    <string name="menu_Wathsapp_toast">Compartiendo en Wathsapp</string>
+
+</resources>
